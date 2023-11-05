@@ -18,3 +18,6 @@ At the top the full name, age, what I'm currently studying and a picture. Below 
 
 For the visual design, I based myself on different CVs that were available on the internet to see what information they put and what resources they used when dividing the information. Obviously there were people who did more elaborate things but I ended up going for the simplest. But basically it helped me in terms of dividing it into sections and I ended up making a grid. The rest of the design was based on the examples we did in class. Create classes and IDs, add images, click a menu text that redirects you to a specific area, a hover that changes color when you move the mouse over the menu sections, among other things. I have done the spaces with br's because I find it simpler even if it is not ideal and it should be done in the css.
 I obtained the color palette from the adobe color and basically they are soft colors with blue-green tones.
+
+LINK FIGMA:
+https://www.figma.com/file/yb1AXZXblyhGyetdZuZwyb/Curriculum-QuimCarreras?type=design&nodeid=0%3A1&mode=design&t=ucQoSB7JOaXPKqjf-1
