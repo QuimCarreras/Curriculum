@@ -1,4 +1,4 @@
-Català
+Català:
 Jo crec que l’usuari que buscaria el meu projecte algú que volgués crear un currículum una mica més elaborat que fer-ho amb un document word o algú que volgués crear una web senzilla. Però que no sap, o té poc coneixement, sobre html i css. Podria ser per exemple un estudiant que vol buscar feina o un petit empresari que vulgui donar difusió a la seva activitat a la xarxa.
 En aquest projecte trobaria una web senzilla, d’una pagina, amb recursos bàsics que li podrien servir per tenir un bon resultat. Com un menú, una llista ,algunes imatges i links que et redirigeixen a una zona en concret de la web.
 
@@ -8,7 +8,7 @@ A la part superior el nom complet, l’edat, el que ara mateix estic estudiant i
 Pel disseny visual m’he basat en diferents currículums que hi havia per internet per veure quina informació posaven i quins recursos feien servir a l’hora de dividir la informació. Evidentment hi havia gent que feia coses més elaborades però he acabat anant al més simple. Però bàsicament m’ha ajudat per la part de dividir-ho en seccions i he acabat fent una graella. La resta del disseny ha sigut basant-me en els exemples que hem fet a classe. Ccrear les classes i les id’s, afegir imatges, clicar un text del menú i que et redirigeixi a la zona en concret, un hover que quan passis el ratolí per sobre de les seccions del menú canvií de color, entre altres coses. Els espais si que ho he fet amb br’s perquè ho trobo més senzill encara que no sigui l’ideal i s’hauria de fer en el css.
 La paleta de colors l’he obtingut a partir de l’adove color i bàsicament són color suaus amb tonalitats blaves- verdoses.
 
-English
+English:
 I think that the user who would look for my project is someone who wants to create a curriculum that is a bit more elaborate than doing it with a word document or someone who wants to create a simple website. But he doesn't know, or has little knowledge, about html and css. It could be, for example, a student who wants to look for a job or a small entrepreneur who wants to promote his activity on the Internet.
 In this project you will find a simple website, with one page, with basic resources that could help you to get a good result. Like a menu, a list, some images and links that redirect you to a specific area of the web.
 
